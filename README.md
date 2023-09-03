@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center"> <img src="https://pbs.twimg.com/media/FpmR9yPaYAEJyDe?format=jpg&name=large" width="555" >
 
-<!--
-**zeppeIi/zeppeIi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> DO NOT INTERACT
+<p align="center"> Kins of Caesar Zeppeli, Risotto Nero, Trish Una, Noriaki Kakyoin [JJBA] or Muzan Kibutsuji [KNY]
+<p align="center"> Anyone under 18, I am an adult, I don't see a reason for me to befriend minors.
+<p align="center"> If you cause or start drama. I don't care about any of your petty issues, go find someone who does.
+<p align="center"> Enmu x Muzan shippers. I don't ship these characters and don't want to be bothered by those who do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> ㅤㅤ
+
+<p align="center"> BEFORE YOU INTERACT
+<p align="center"> I don't mind anyone sitting with me. I won't yell at you for it like others do. If I am with friend(s), ask me first please.
+<p align="center"> I am usually up for chatting, but I get tired of conversing easily, I will let you know when I wish to stop.
+<p align="center"> If you cover me or my friends I will cover you too. It's not a 'TT thing', we just want to see our skins. :)
+<p align="center"> I'm AFK or Off-Tab often, if you try to speak to me and I don't respond, I did not see your message.
+<p align="center"> If I am sitting with a friend as two characters, that does NOT mean we are shipping them. Ask before you assume.
