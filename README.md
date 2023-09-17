@@ -2,7 +2,7 @@
 
 
 <p align="center"> DO NOT INTERACT
-<p align="center"> Kins of Caesar Zeppeli, Risotto Nero, Trish Una, Noriaki Kakyoin [JJBA] Shanks [One Piece] or Muzan Kibutsuji [KNY]
+<p align="center"> Kins of Caesar Zeppeli, Risotto Nero, Trish Una, Noriaki Kakyoin [JJBA], Shanks [One Piece] or Muzan Kibutsuji [KNY]
 <p align="center"> Anyone under 18, I am an adult, I don't see a reason for me to befriend minors.
 <p align="center"> If you cause or start drama. I don't care about any of your petty issues, go find someone who does.
 <p align="center"> Enmu x Muzan shippers. I don't ship these characters and don't want to be bothered by those who do.
