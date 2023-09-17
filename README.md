@@ -16,3 +16,4 @@
 <p align="center"> If you cover me or my friends I will cover you too. It's not a 'TT thing', we just want to see our skins. :)
 <p align="center"> I'm AFK or Off-Tab often, if you try to speak to me and I don't respond, I did not see your message.
 <p align="center"> If I am sitting with a friend as two characters, that does NOT mean we are shipping them. Ask before you assume.
+<p align="center"> I am typically a very friendly person but that doesn't mean I cannot be mean if I need to be.
