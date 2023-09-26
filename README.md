@@ -1,34 +1,17 @@
-<h1 id="user-content-hi-ponytown-goer--" dir="auto"><a class="heading-link" href="#hi-ponytown-goer--">hi ponytown goer! </a><a href="https://www.youtube.com/watch?v=uKbRXeJ9lv4" rel="nofollow"><img src="https://camo.githubusercontent.com/f1ee3e3084921ca99d5e10cd2eff8bdffefe9c186941ef5c9e830e984dd01e80/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313132353233363936363236373536343138342f313132383930313436323030313437313538392f626c61636b6361742e706e67" data-canonical-src="https://cdn.discordapp.com/attachments/1125236966267564184/1128901462001471589/blackcat.png" style="max-width: 100%;"></a> <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></h1>
- <div align="center" dir="auto">  <a href="https://rentry.co/serphs" rel="nofollow"><img src="https://camo.githubusercontent.com/fe05418e696b7a3affa41e2b012607056ec49ab176cba5dfa2dd5a58a5ef4d03/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f38373234626536626164353634623530633138636561313564633066633138372f74756d626c725f6e3178686c663872416f3174746a6f336b6f315f72315f3235302e67696676" align="left" alt="I LOVE RAIDOU!" data-canonical-src="" style="max-width: 100%;"></a> <a href="https://rentry.co/runoinchrests" rel="nofollow">interests</a> • <a href="https://rentry.co/shinjiru" rel="nofollow">rentry</a> • <a href="https://shinminase.123guestbook.com/" rel="nofollow"> guestbook </a> • <a href="https://curiouscat.live/shinminase" rel="nofollow"> curiouscat </a> • <a href="https://my.cbox.ws/shinminase" rel="nofollow">cbox </a>  </div> 
- <hr>
-  <ul dir="auto">
-  <li> im usually offtab but feel free to int regardless! </li>
-    <li> greatly appreciate it if u whisper to interact / crown because i miss things in chat a lot.</li>
-    <sub><sup> if i dont reply, it's probably because i didn't see it, sorry! im usually on "busy" status but that means nothing. i just like red. </sup></sub>
-    <li> i am an unabashed hater of south park and vivziepop stuff. keep that in mind. </li>
-    <li> please interact if we have any interests in common i lauv meeting ppl </li>
-  </ul>
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/14398a23fb76466da8f5a5514332f498eb3d207513fd9f3abb3621d98e0d9792/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f766964656f67616d65732f37392e676966"><img src="https://camo.githubusercontent.com/14398a23fb76466da8f5a5514332f498eb3d207513fd9f3abb3621d98e0d9792/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f766964656f67616d65732f37392e676966" align="right" data-animated-image="" data-canonical-src="https://shishka.neocities.org/shishka/img/videogames/79.gif" style="max-width: 100%;"></a></p> <div align="right" dir="auto">
-    <br>
-    <p dir="auto">   - - - - -  no concrete <b><em>dni</em></b> just dont be a <b>freak</b> or a <b>weirdo.</b> i block and hide freely.ㅤㅤㅤ </p>
-  </div>
-<div align="center" dir="auto">
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
-    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
-</svg>
-    <span aria-label="Video description debisamana.mp4" class="m-1">debisamana.mp4</span>
-    <span class="dropdown-caret"></span>
-  </summary>
+<p align="center"> <img src="https://i.pinimg.com/originals/8a/73/3c/8a733c10b1454b0d31d8a6f41c53eec5.gif" width="555" >
 
-  <video src="https://user-images.githubusercontent.com/139236438/253222830-04dbbbb4-9c75-4b0e-adc8-69da6b7ad782.mp4" data-canonical-src="https://user-images.githubusercontent.com/139236438/253222830-04dbbbb4-9c75-4b0e-adc8-69da6b7ad782.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-  </video>
-</details>
+<p align="center"> DO NOT INTERACT
+<p align="center"> Kins of Caesar Zeppeli, Risotto Nero, Trish Una, Noriaki Kakyoin [JJBA], Shanks [One Piece] or Muzan Kibutsuji [KNY]
+<p align="center"> Anyone under 18, I am an adult, I don't see a reason for me to befriend minors.
+<p align="center"> If you cause or start drama. I don't care about any of your petty issues, go find someone who does.
+<p align="center"> Enmu x Muzan shippers. I don't ship these characters and don't want to be bothered by those who do.
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e09324b13339c6736b183c4f588909587e4664064a9adbfbab086c5806fc5c36/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f627574746f6e732f3237392e676966"><img src="https://camo.githubusercontent.com/e09324b13339c6736b183c4f588909587e4664064a9adbfbab086c5806fc5c36/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f627574746f6e732f3237392e676966" data-animated-image="" data-canonical-src="https://shishka.neocities.org/shishka/img/buttons/279.gif" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c94036ca81df4135575cec1761c76b2524bcc471903f646cc65cd454ca09132/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f627574746f6e732f3238302e676966"><img src="https://camo.githubusercontent.com/0c94036ca81df4135575cec1761c76b2524bcc471903f646cc65cd454ca09132/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f627574746f6e732f3238302e676966" data-animated-image="" data-canonical-src="https://shishka.neocities.org/shishka/img/buttons/280.gif" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db10a87948fa424393ba7f6c801d272621f3c4f281b706e3edfce414649effab/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f627574746f6e732f3238312e676966"><img src="https://camo.githubusercontent.com/db10a87948fa424393ba7f6c801d272621f3c4f281b706e3edfce414649effab/68747470733a2f2f73686973686b612e6e656f6369746965732e6f72672f73686973686b612f696d672f627574746f6e732f3238312e676966" data-animated-image="" data-canonical-src="https://shishka.neocities.org/shishka/img/buttons/281.gif" style="max-width: 100%;"></a></p>
-</div>
-<div align="center" dir="auto"> <sub> BAAAA!!! no wonder people are homophobic, this is scary AF!!! 
-<br>
-PLEASE DO NOT BE AFRAID TO GO UP TO ME I DONT BITE (yes i do but thats besides the point) I LIKE MAKING FRIENDS!!!! ESP IF WE HAVE INTERESTS IN COMMON  </sub> </div>
+<p align="center"> ㅤㅤ
+
+<p align="center"> BEFORE YOU INTERACT
+<p align="center"> I don't mind anyone sitting with me. I won't yell at you for it like others do. If I am with friend(s), ask me first please.
+<p align="center"> I am usually up for chatting, but I get tired of conversing easily, I will let you know when I wish to stop.
+<p align="center"> I'm AFK or Off-Tab often, if you try to speak to me and I don't respond, I did not see your message.
+<p align="center"> If I am sitting with a friend as two characters, that does NOT mean we are shipping them. Ask before you assume.
+<p align="center"> I am typically a very friendly person but that doesn't mean I cannot be mean if I need to be.
